@@ -49,7 +49,7 @@ public class MenuController : MonoBehaviour {
 	}
 	public void OnPlay()
 	{
-		
+		print("11111");
 	}
 
 	void OnChangeColor(Color c)
